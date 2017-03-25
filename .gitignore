@@ -11,3 +11,4 @@ gurecyclerview/libs/
 /.idea/
 /gradle/
 /gradle.properties
+.gitignore
