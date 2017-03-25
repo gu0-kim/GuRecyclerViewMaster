@@ -1,0 +1,13 @@
+*.iml
+.gradle
+/local.properties
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+app/libs/
+app/src/main/res/drawable/
+gurecyclerview/libs/
+/.idea/
+/gradle/
+/gradle.properties
